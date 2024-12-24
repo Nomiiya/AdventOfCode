@@ -1,2 +1,2 @@
 # AdventOfCode
-Advent of Code Answers :)
+Advent of Code
